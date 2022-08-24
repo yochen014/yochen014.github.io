@@ -1,0 +1,62 @@
+.title {
+    /*  */
+    position: fixed;
+    
+    width: 300px;
+    height: 80px;
+    margin-left: 18px;
+    margin-right: 18px;
+    vertical-align:top;
+}
+
+.first-page {
+    
+    background-color: rgb(147, 34, 34);
+    margin: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 1535.5px;
+    height: 713.6px;
+    /* background-size: cover; */
+    position: absolute; /*讓圖片切齊*/
+    display: block;
+}
+
+.hcsu113th {
+    
+    /* position: absolute; */
+    /* width: 512px;
+    height: 529px; */
+    
+    border: none;
+    border-radius: 40px;
+    max-height: 56px;
+    max-width: 225px;
+    padding: 8px 12px 8px 12px;
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.button {
+    position: absolute;
+    top: 10px;
+}
+
+.hello{
+    color: wheat;
+    font-weight: 300;
+    font-family: "roboto";
+    font-size: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 60px;
+    vertical-align: top;
+    /* margin-top: 60px; */
+    display: inline-block;
+}
